@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/dev-andrewm/testimonials-grid-section-main
-- Live Site URL: https://dev-andrewm.github.io/testimonials-grid-section-main/
+- Solution URL: https://github.com/dev-andrewm/single-price-grid-component
+- Live Site URL: https://dev-andrewm.github.io/single-price-grid-component/
 
 ## My process
 

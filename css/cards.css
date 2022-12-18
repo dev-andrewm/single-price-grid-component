@@ -17,7 +17,7 @@
   color: var(--cyan);
 }
 
-.card-box__join h3 {
+.card-box__join p {
   color: var(--bright-yellow);
 }
 
@@ -62,8 +62,8 @@
   background-color: var(--light-cyan);
 }
 
-.card-box__whyus p {
-  max-width: 18.5rem;
+.card-box__whyus ul {
+  list-style: none;
 }
 
 @media (min-width: 900px) {
